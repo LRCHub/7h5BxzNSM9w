@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ワインレッドの心(Wine Red no Kokoro)　安全地帯",
+  "base_artist": "ANZEN_CHITAI",
+  "createdAt": "2025-12-25T02:11:41.925938Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心_安全地帯",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_ワインレッドの心_安全地帯_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_02_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心 (2010ヴァージョン)",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_03_ワインレッドの心_(2010ヴァージョン)_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_04_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_05_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_06_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_07_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_08_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_09_ワインレッドの心_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ワインレッドの心",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_10_ワインレッドの心_安全地帯.txt"
+    }
+  ]
+}
